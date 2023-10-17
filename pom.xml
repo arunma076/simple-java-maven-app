@@ -191,8 +191,10 @@
                         </goals>
                     </execution>
                 </executions>
-        </plugin>
-        </build>
+         </plugin>
+        
+        </plugins>
+    </build>
     <repositories>
     <repository>
       <id>${NEXUS-GRP-REPO}</id>
